@@ -1,0 +1,125 @@
+ 
+1) Add Data 
+2) Display Data 
+3) Remove Zip 
+4) Load XML 
+5) Write XML 
+6) Find a Cars of Make in Zip 
+7) Find a Service 
+8) Total Value Insured 
+9) Insurance For 
+0) Quit 
+ 
+Choice:> [34;1m4[0m
+File name:> [34;1mfullClean.xml[0m
+ 
+1) Add Data 
+2) Display Data 
+3) Remove Zip 
+4) Load XML 
+5) Write XML 
+6) Find a Cars of Make in Zip 
+7) Find a Service 
+8) Total Value Insured 
+9) Insurance For 
+0) Quit 
+ 
+Choice:> [34;1m7[0m
+Car Service:> [34;1m22[0m
+22 found in 57702 
+ 
+1) Add Data 
+2) Display Data 
+3) Remove Zip 
+4) Load XML 
+5) Write XML 
+6) Find a Cars of Make in Zip 
+7) Find a Service 
+8) Total Value Insured 
+9) Insurance For 
+0) Quit 
+ 
+Choice:> [34;1m7[0m
+Car Service:> [34;1m1[0m
+1 found in 57703 
+ 
+1) Add Data 
+2) Display Data 
+3) Remove Zip 
+4) Load XML 
+5) Write XML 
+6) Find a Cars of Make in Zip 
+7) Find a Service 
+8) Total Value Insured 
+9) Insurance For 
+0) Quit 
+ 
+Choice:> [34;1m7[0m
+Car Service:> [34;1m75[0m
+75 found in 57704 
+ 
+1) Add Data 
+2) Display Data 
+3) Remove Zip 
+4) Load XML 
+5) Write XML 
+6) Find a Cars of Make in Zip 
+7) Find a Service 
+8) Total Value Insured 
+9) Insurance For 
+0) Quit 
+ 
+Choice:> [34;1m7[0m
+Car Service:> [34;1m100[0m
+100 not found 
+ 
+1) Add Data 
+2) Display Data 
+3) Remove Zip 
+4) Load XML 
+5) Write XML 
+6) Find a Cars of Make in Zip 
+7) Find a Service 
+8) Total Value Insured 
+9) Insurance For 
+0) Quit 
+ 
+Choice:> [34;1m1[0m
+What Zip Code:> [34;1m57706[0m
+ 
+What Element (Owner, Car Shop ):> [34;1mcar shop[0m
+Name:> [34;1mAAA[0m
+Code:> [34;1m100[0m
+Description:> [34;1mWindow Tint[0m
+Add another element (y/n):> [34;1mn[0m
+Added Car Shop 
+Add another Zip Code element (y/n):> [34;1mn[0m
+ 
+1) Add Data 
+2) Display Data 
+3) Remove Zip 
+4) Load XML 
+5) Write XML 
+6) Find a Cars of Make in Zip 
+7) Find a Service 
+8) Total Value Insured 
+9) Insurance For 
+0) Quit 
+ 
+Choice:> [34;1m7[0m
+Car Service:> [34;1m100[0m
+100 found in 57706 
+ 
+1) Add Data 
+2) Display Data 
+3) Remove Zip 
+4) Load XML 
+5) Write XML 
+6) Find a Cars of Make in Zip 
+7) Find a Service 
+8) Total Value Insured 
+9) Insurance For 
+0) Quit 
+ 
+Choice:> [34;1m0[0m
+ 

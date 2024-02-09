@@ -1,0 +1,42 @@
+<InsuranceData>
+  <ZipCode code="57701">
+    <Owner name="Harold">
+      <Vehicle value="1000" year="2015" make="Ford" model="Taurus"></Vehicle>
+    </Owner>
+  </ZipCode>
+  <ZipCode code="57702">
+    <Owner name="Bob">
+      <Claim>
+        <date>12-16-2016</date>
+      </Claim>
+    </Owner>
+  </ZipCode>
+  <ZipCode code="57703">
+    <CarShop name="Easy Fix">
+      <CarService code="1">Oil change: $36</CarService>
+    </CarShop>
+  </ZipCode>
+  <ZipCode code="57704">
+    <Owner name="Patty">
+      <Vehicle value="1500" year="2010" make="Honda" model="HR-V"></Vehicle>
+      <Vehicle value="18500" year="2015" make="Chevrolet" model="Impala"></Vehicle>
+      <Claim>
+        <date>12-12-2020</date>
+      </Claim>
+      <Claim>
+        <date>2-29-2015</date>
+      </Claim>
+    </Owner>
+    <Owner name="Phil">
+      <Vehicle value="22000" year="2012" make="Toyota" model="Tundra"></Vehicle>
+    </Owner>
+    <CarShop name="Bob's Fix It">
+      <CarService code="1">Oil change: $36</CarService>
+      <CarService code="22">Tire change: $150</CarService>
+      <CarService code="12">New battery: $110</CarService>
+    </CarShop>
+    <CarShop name="ABC Car Repair">
+      <CarService code="75">Hail repair</CarService>
+    </CarShop>
+  </ZipCode>
+</InsuranceData>

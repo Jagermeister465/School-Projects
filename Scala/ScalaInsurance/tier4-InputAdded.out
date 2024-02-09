@@ -1,0 +1,135 @@
+ 
+1) Add Data 
+2) Display Data 
+3) Remove Zip 
+4) Load XML 
+5) Write XML 
+6) Find a Cars of Make in Zip 
+7) Find a Service 
+8) Total Value Insured 
+9) Insurance For 
+0) Quit 
+ 
+Choice:> [34;1m4[0m
+File name:> [34;1mfullClean.xml[0m
+ 
+1) Add Data 
+2) Display Data 
+3) Remove Zip 
+4) Load XML 
+5) Write XML 
+6) Find a Cars of Make in Zip 
+7) Find a Service 
+8) Total Value Insured 
+9) Insurance For 
+0) Quit 
+ 
+Choice:> [34;1m6[0m
+Zip Code:> [34;1m57702[0m
+Vehicle:> [34;1mFord[0m
+Vehicle: Make: Ford      Model: Taurus    Year: 2005      Value: $1500       
+Vehicle: Make: Ford      Model: F150      Year: 2009      Value: $22500      
+ 
+1) Add Data 
+2) Display Data 
+3) Remove Zip 
+4) Load XML 
+5) Write XML 
+6) Find a Cars of Make in Zip 
+7) Find a Service 
+8) Total Value Insured 
+9) Insurance For 
+0) Quit 
+ 
+Choice:> [34;1m6[0m
+Zip Code:> [34;1m57702[0m
+Vehicle:> [34;1mTesla[0m
+Vehicle: Make: Tesla     Model: 3         Year: 2015      Value: $28500      
+ 
+1) Add Data 
+2) Display Data 
+3) Remove Zip 
+4) Load XML 
+5) Write XML 
+6) Find a Cars of Make in Zip 
+7) Find a Service 
+8) Total Value Insured 
+9) Insurance For 
+0) Quit 
+ 
+Choice:> [34;1m6[0m
+Zip Code:> [34;1m57703[0m
+Vehicle:> [34;1mFord[0m
+ 
+1) Add Data 
+2) Display Data 
+3) Remove Zip 
+4) Load XML 
+5) Write XML 
+6) Find a Cars of Make in Zip 
+7) Find a Service 
+8) Total Value Insured 
+9) Insurance For 
+0) Quit 
+ 
+Choice:> [34;1m6[0m
+Zip Code:> [34;1m57704[0m
+Vehicle:> [34;1mFord[0m
+Vehicle: Make: Ford      Model: F150      Year: 2000      Value: $2500       
+ 
+1) Add Data 
+2) Display Data 
+3) Remove Zip 
+4) Load XML 
+5) Write XML 
+6) Find a Cars of Make in Zip 
+7) Find a Service 
+8) Total Value Insured 
+9) Insurance For 
+0) Quit 
+ 
+Choice:> [34;1m1[0m
+What Zip Code:> [34;1m57705[0m
+ 
+What Element (Owner, Car Shop ):> [34;1mowner[0m
+Name:> [34;1mHarold[0m
+ 
+What Element (Vehicle, Claim):> [34;1mvehicle[0m
+Make:> [34;1mFord[0m
+Model:> [34;1mTaurus[0m
+Year:> [34;1m2015[0m
+Value:> [34;1m1000[0m
+Added Vehicle 
+Add another Owner element (y/n):> [34;1mn[0m
+Added Owner 
+Add another Zip Code element (y/n):> [34;1mn[0m
+ 
+1) Add Data 
+2) Display Data 
+3) Remove Zip 
+4) Load XML 
+5) Write XML 
+6) Find a Cars of Make in Zip 
+7) Find a Service 
+8) Total Value Insured 
+9) Insurance For 
+0) Quit 
+ 
+Choice:> [34;1m6[0m
+Zip Code:> [34;1m57705[0m
+Vehicle:> [34;1mFord[0m
+Vehicle: Make: Ford      Model: Taurus    Year: 2015      Value: $1000       
+ 
+1) Add Data 
+2) Display Data 
+3) Remove Zip 
+4) Load XML 
+5) Write XML 
+6) Find a Cars of Make in Zip 
+7) Find a Service 
+8) Total Value Insured 
+9) Insurance For 
+0) Quit 
+ 
+Choice:> [34;1m0[0m
+ 

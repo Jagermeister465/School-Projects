@@ -1,0 +1,106 @@
+
+1) Add Data
+2) Display Data
+3) Remove Zip
+4) Load XML
+5) Write XML
+6) Find a Cars of Make in Zip
+7) Find a Service
+8) Total Value Insured
+9) Insurance For
+0) Quit
+
+Choice:> File name:> 
+1) Add Data
+2) Display Data
+3) Remove Zip
+4) Load XML
+5) Write XML
+6) Find a Cars of Make in Zip
+7) Find a Service
+8) Total Value Insured
+9) Insurance For
+0) Quit
+
+Choice:> Zip Code:> Vehicle:> Vehicle: Make: Ford      Model: Taurus    Year: 2005      Value: $1500      
+Vehicle: Make: Ford      Model: F150      Year: 2009      Value: $22500     
+
+1) Add Data
+2) Display Data
+3) Remove Zip
+4) Load XML
+5) Write XML
+6) Find a Cars of Make in Zip
+7) Find a Service
+8) Total Value Insured
+9) Insurance For
+0) Quit
+
+Choice:> Zip Code:> Vehicle:> Vehicle: Make: Tesla     Model: 3         Year: 2015      Value: $28500     
+
+1) Add Data
+2) Display Data
+3) Remove Zip
+4) Load XML
+5) Write XML
+6) Find a Cars of Make in Zip
+7) Find a Service
+8) Total Value Insured
+9) Insurance For
+0) Quit
+
+Choice:> Zip Code:> Vehicle:> 
+1) Add Data
+2) Display Data
+3) Remove Zip
+4) Load XML
+5) Write XML
+6) Find a Cars of Make in Zip
+7) Find a Service
+8) Total Value Insured
+9) Insurance For
+0) Quit
+
+Choice:> Zip Code:> Vehicle:> Vehicle: Make: Ford      Model: F150      Year: 2000      Value: $2500      
+
+1) Add Data
+2) Display Data
+3) Remove Zip
+4) Load XML
+5) Write XML
+6) Find a Cars of Make in Zip
+7) Find a Service
+8) Total Value Insured
+9) Insurance For
+0) Quit
+
+Choice:> What Zip Code:> 
+What Element (Owner, Car Shop ):> Name:> 
+What Element (Vehicle, Claim):> Make:> Model:> Year:> Value:> Added Vehicle
+Add another Owner element (y/n):> Added Owner
+Add another Zip Code element (y/n):> 
+1) Add Data
+2) Display Data
+3) Remove Zip
+4) Load XML
+5) Write XML
+6) Find a Cars of Make in Zip
+7) Find a Service
+8) Total Value Insured
+9) Insurance For
+0) Quit
+
+Choice:> Zip Code:> Vehicle:> Vehicle: Make: Ford      Model: Taurus    Year: 2015      Value: $1000      
+
+1) Add Data
+2) Display Data
+3) Remove Zip
+4) Load XML
+5) Write XML
+6) Find a Cars of Make in Zip
+7) Find a Service
+8) Total Value Insured
+9) Insurance For
+0) Quit
+
+Choice:> 

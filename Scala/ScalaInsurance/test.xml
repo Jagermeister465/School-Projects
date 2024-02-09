@@ -1,0 +1,13 @@
+<InsuranceData>
+   <ZipCode name="57701">
+      <Owner name="Harold">
+         <Vehicle value="1000" year="2015" make="Taurus" model="Ford"></Vehicle>
+         <Claim>
+            <date>12-16-16</date>
+         </Claim>
+      </Owner>
+      <CarShop name="Easy Fix">
+         <CarService code="1">Oil change: $36</CarService>
+      </CarShop>
+   </ZipCode>
+</InsuranceData>

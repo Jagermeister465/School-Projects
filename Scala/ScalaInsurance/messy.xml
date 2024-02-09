@@ -1,0 +1,39 @@
+<InsuranceData>
+
+  <ZipCode code="57702">
+    <Owner name="Bob">
+      <address> 1600 Pennsylvania ave</address>
+      <Claim>
+        <date>12-16-2016</date>
+      </Claim>
+      <home>
+        <address> 1600 Pennsylvania ave</address>
+      </home>
+    </Owner>
+  </ZipCode>
+  <ZipCode code="57704">
+    South Dakota
+    <Owner>
+      <Vehicle value="1500" year="2010" make="Honda" model="HR-V"/>
+      <Vehicle/>
+      <Claim>
+        <date>12-12-2020</date>
+        Cause: snow and ice
+      </Claim>
+      <Claim>
+        <date>2-29-2015</date>
+      </Claim>
+    </Owner>
+    <Owner name="Phil">
+      <Vehicle value="22000" year="2012" make="Toyota" model="Tundra"/>
+    </Owner>
+    <CarShop  address="123 Repair road">
+      <CarService code="1">Oil change: $36</CarService>
+      <CarService code="22"></CarService>
+      <CarService code="12">New battery: $110</CarService>
+    </CarShop>
+    <CarShop name="ABC Car Repair">
+      <CarService code="75">Hail repair</CarService>
+    </CarShop>
+  </ZipCode>
+</InsuranceData>

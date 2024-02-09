@@ -1,0 +1,61 @@
+<InsuranceData>
+    <ZipCode code="57702">
+        <Owner name="Bob">
+            <Vehicle value="1500" year="2005" make="Ford" model="Taurus"/>
+            <Claim>
+                <date>12-16-2016</date>
+            </Claim>
+            <Vehicle value="22502" year="2015" make="Mazda" model="5"/>
+        </Owner>
+        <Owner name="Bobby">
+            <Vehicle value="1500" year="2005" make="GM" model="Saturn"/>
+            <Vehicle value="20002" year="2015" make="Mazda" model="5"/>
+            <Vehicle value="2500" year="2005" make="Mazda" model="5"/>
+        </Owner>
+        <Owner name="Bruce">
+            <Vehicle value="1500" year="2010" make="Honda" model="HR-V"/>
+            <Claim>
+                <date>2-29-2015</date>
+            </Claim>
+            <Vehicle value="28500" year="2015" make="Tesla" model="3"/>
+            <Claim>
+                <date>12-12-2020</date>
+            </Claim>
+        </Owner>
+        <Owner name="Clark">
+            <Vehicle value="22500" year="2009" make="Ford" model="F150"/>
+        </Owner>
+        <CarShop name="AAA">
+            <CarService code="22">Tire change: $175</CarService>
+        </CarShop>
+    </ZipCode>
+    <ZipCode code="57703">
+        <CarShop name="Easy Fix">
+            <CarService code="1">Oil change: $36</CarService>
+        </CarShop>
+    </ZipCode>
+    <ZipCode code="57704">
+        <Owner name="Patty">
+            <Vehicle value="1500" year="2010" make="Honda" model="HR-V"/>
+            <Vehicle value="18500" year="2015" make="Chevrolet" model="Impala"/>
+            <Claim>
+                <date>12-12-2020</date>
+            </Claim>
+            <Claim>
+                <date>2-29-2015</date>
+            </Claim>
+        </Owner>
+        <Owner name="Phil">
+            <Vehicle value="22000" year="2012" make="Toyota" model="Tundra"/>
+            <Vehicle value="2500" year="2000" make="Ford" model="F150"/>
+        </Owner>
+        <CarShop name="Bob's Fix It">
+            <CarService code="1">Oil change: $45</CarService>
+            <CarService code="22">Tire change: $150</CarService>
+            <CarService code="12">New battery: $110</CarService>
+        </CarShop>
+        <CarShop name="ABC Car Repair">
+            <CarService code="75">Hail repair</CarService>
+        </CarShop>
+    </ZipCode>
+</InsuranceData>

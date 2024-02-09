@@ -1,0 +1,45 @@
+4
+fullClean.xml
+2
+
+1
+57701
+owner
+Harold
+vehicle
+Ford
+Taurus
+2015
+1000
+y
+c
+2-29-2015
+n
+Y
+car shop
+Bob's Fix It
+1
+Oil change: $36
+y
+22
+Tire change: $150
+n
+n
+
+5
+tier3_Out.xml
+
+3
+57701
+3
+57702
+3
+57703
+3
+57704
+
+4
+tier3_Out.xml
+2
+
+0

@@ -1,0 +1,104 @@
+
+1) Add Data
+2) Display Data
+3) Remove Zip
+4) Load XML
+5) Write XML
+6) Find a Cars of Make in Zip
+7) Find a Service
+8) Total Value Insured
+9) Insurance For
+0) Quit
+
+Choice:> File name:> 
+1) Add Data
+2) Display Data
+3) Remove Zip
+4) Load XML
+5) Write XML
+6) Find a Cars of Make in Zip
+7) Find a Service
+8) Total Value Insured
+9) Insurance For
+0) Quit
+
+Choice:> Car Service:> 22 found in 57702
+
+1) Add Data
+2) Display Data
+3) Remove Zip
+4) Load XML
+5) Write XML
+6) Find a Cars of Make in Zip
+7) Find a Service
+8) Total Value Insured
+9) Insurance For
+0) Quit
+
+Choice:> Car Service:> 1 found in 57703
+
+1) Add Data
+2) Display Data
+3) Remove Zip
+4) Load XML
+5) Write XML
+6) Find a Cars of Make in Zip
+7) Find a Service
+8) Total Value Insured
+9) Insurance For
+0) Quit
+
+Choice:> Car Service:> 75 found in 57704
+
+1) Add Data
+2) Display Data
+3) Remove Zip
+4) Load XML
+5) Write XML
+6) Find a Cars of Make in Zip
+7) Find a Service
+8) Total Value Insured
+9) Insurance For
+0) Quit
+
+Choice:> Car Service:> 100 not found
+
+1) Add Data
+2) Display Data
+3) Remove Zip
+4) Load XML
+5) Write XML
+6) Find a Cars of Make in Zip
+7) Find a Service
+8) Total Value Insured
+9) Insurance For
+0) Quit
+
+Choice:> What Zip Code:> 
+What Element (Owner, Car Shop ):> Name:> Code:> Description:> Add another element (y/n):> Added Car Shop
+Add another Zip Code element (y/n):> 
+1) Add Data
+2) Display Data
+3) Remove Zip
+4) Load XML
+5) Write XML
+6) Find a Cars of Make in Zip
+7) Find a Service
+8) Total Value Insured
+9) Insurance For
+0) Quit
+
+Choice:> Car Service:> 100 found in 57706
+
+1) Add Data
+2) Display Data
+3) Remove Zip
+4) Load XML
+5) Write XML
+6) Find a Cars of Make in Zip
+7) Find a Service
+8) Total Value Insured
+9) Insurance For
+0) Quit
+
+Choice:> 

@@ -1,0 +1,224 @@
+
+1) Add Data
+2) Display Data
+3) Remove Zip
+4) Load XML
+5) Write XML
+6) Find a Cars of Make in Zip
+7) Find a Service
+8) Total Value Insured
+9) Insurance For
+0) Quit
+
+Choice:> File name:> 
+1) Add Data
+2) Display Data
+3) Remove Zip
+4) Load XML
+5) Write XML
+6) Find a Cars of Make in Zip
+7) Find a Service
+8) Total Value Insured
+9) Insurance For
+0) Quit
+
+Choice:> 
+Zip Code: 57702 
+======================================================
+  *****************************************************
+  Bob 
+  Vehicle(s) 
+    Vehicle: Make: Ford      Model: Taurus    Year: 2005      Value: $1500      
+    Vehicle: Make: Mazda     Model: 5         Year: 2015      Value: $22502     
+  Claim(s) 
+    Claim: 12-16-2016
+  *****************************************************
+  *****************************************************
+  Bobby 
+  Vehicle(s) 
+    Vehicle: Make: GM        Model: Saturn    Year: 2005      Value: $1500      
+    Vehicle: Make: Mazda     Model: 5         Year: 2015      Value: $20002     
+    Vehicle: Make: Mazda     Model: 5         Year: 2005      Value: $2500      
+  Claim(s) 
+
+  *****************************************************
+  *****************************************************
+  Bruce 
+  Vehicle(s) 
+    Vehicle: Make: Honda     Model: HR-V      Year: 2010      Value: $1500      
+    Vehicle: Make: Tesla     Model: 3         Year: 2015      Value: $28500     
+  Claim(s) 
+    Claim: 2-29-2015
+    Claim: 12-12-2020
+  *****************************************************
+  *****************************************************
+  Clark 
+  Vehicle(s) 
+    Vehicle: Make: Ford      Model: F150      Year: 2009      Value: $22500     
+  Claim(s) 
+
+  *****************************************************
+  .....................................................
+  Car Shop: AAA
+    (22) Tire change: $175
+  .....................................................
+Zip Code: 57703 
+======================================================
+  .....................................................
+  Car Shop: Easy Fix
+    (1) Oil change: $36
+  .....................................................
+Zip Code: 57704 
+======================================================
+  *****************************************************
+  Patty 
+  Vehicle(s) 
+    Vehicle: Make: Honda     Model: HR-V      Year: 2010      Value: $1500      
+    Vehicle: Make: Chevrolet Model: Impala    Year: 2015      Value: $18500     
+  Claim(s) 
+    Claim: 12-12-2020
+    Claim: 2-29-2015
+  *****************************************************
+  *****************************************************
+  Phil 
+  Vehicle(s) 
+    Vehicle: Make: Toyota    Model: Tundra    Year: 2012      Value: $22000     
+    Vehicle: Make: Ford      Model: F150      Year: 2000      Value: $2500      
+  Claim(s) 
+
+  *****************************************************
+  .....................................................
+  Car Shop: Bob's Fix It
+    (1) Oil change: $45
+    (22) Tire change: $150
+    (12) New battery: $110
+  .....................................................
+  .....................................................
+  Car Shop: ABC Car Repair
+    (75) Hail repair
+  .....................................................
+
+1) Add Data
+2) Display Data
+3) Remove Zip
+4) Load XML
+5) Write XML
+6) Find a Cars of Make in Zip
+7) Find a Service
+8) Total Value Insured
+9) Insurance For
+0) Quit
+
+Choice:> File name:> 
+1) Add Data
+2) Display Data
+3) Remove Zip
+4) Load XML
+5) Write XML
+6) Find a Cars of Make in Zip
+7) Find a Service
+8) Total Value Insured
+9) Insurance For
+0) Quit
+
+Choice:> 
+Zip Code: 57702 
+======================================================
+  *****************************************************
+  Bob 
+  Vehicle(s) 
+    Vehicle: Make: Ford      Model: Taurus    Year: 2005      Value: $1500      
+    Vehicle: Make: Mazda     Model: 5         Year: 2015      Value: $22502     
+  Claim(s) 
+    Claim: 12-16-2016
+  *****************************************************
+  *****************************************************
+  Bobby 
+  Vehicle(s) 
+    Vehicle: Make: GM        Model: Saturn    Year: 2005      Value: $1500      
+    Vehicle: Make: Mazda     Model: 5         Year: 2015      Value: $20002     
+    Vehicle: Make: Mazda     Model: 5         Year: 2005      Value: $2500      
+  Claim(s) 
+
+  *****************************************************
+  *****************************************************
+  Bruce 
+  Vehicle(s) 
+    Vehicle: Make: Honda     Model: HR-V      Year: 2010      Value: $1500      
+    Vehicle: Make: Tesla     Model: 3         Year: 2015      Value: $28500     
+  Claim(s) 
+    Claim: 2-29-2015
+    Claim: 12-12-2020
+  *****************************************************
+  *****************************************************
+  Clark 
+  Vehicle(s) 
+    Vehicle: Make: Ford      Model: F150      Year: 2009      Value: $22500     
+  Claim(s) 
+
+  *****************************************************
+  .....................................................
+  Car Shop: AAA
+    (22) Tire change: $175
+  .....................................................
+Zip Code: 57703 
+======================================================
+  .....................................................
+  Car Shop: Easy Fix
+    (1) Oil change: $36
+  .....................................................
+Zip Code: 57704 
+======================================================
+  *****************************************************
+  Patty 
+  Vehicle(s) 
+    Vehicle: Make: Honda     Model: HR-V      Year: 2010      Value: $1500      
+    Vehicle: Make: Chevrolet Model: Impala    Year: 2015      Value: $18500     
+  Claim(s) 
+    Claim: 12-12-2020
+    Claim: 2-29-2015
+  *****************************************************
+  *****************************************************
+  Phil 
+  Vehicle(s) 
+    Vehicle: Make: Toyota    Model: Tundra    Year: 2012      Value: $22000     
+    Vehicle: Make: Ford      Model: F150      Year: 2000      Value: $2500      
+  Claim(s) 
+
+  *****************************************************
+  .....................................................
+  Car Shop: Bob's Fix It
+    (1) Oil change: $45
+    (22) Tire change: $150
+    (12) New battery: $110
+  .....................................................
+  .....................................................
+  Car Shop: ABC Car Repair
+    (75) Hail repair
+  .....................................................
+Zip Code: 57701 
+======================================================
+  *****************************************************
+  Harold 
+  Vehicle(s) 
+    Vehicle: Make: Taurus    Model: Ford      Year: 2015      Value: $1000      
+  Claim(s) 
+    Claim: 12-16-2016
+  *****************************************************
+  .....................................................
+  Car Shop: Easy Fix
+    (1) Oil change: $36
+  .....................................................
+
+1) Add Data
+2) Display Data
+3) Remove Zip
+4) Load XML
+5) Write XML
+6) Find a Cars of Make in Zip
+7) Find a Service
+8) Total Value Insured
+9) Insurance For
+0) Quit
+
+Choice:> 

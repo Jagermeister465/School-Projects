@@ -1,0 +1,87 @@
+1
+57701
+owner
+Harold
+vehicle
+Ford
+Taurus
+2015
+1000
+n
+n
+
+1
+57702
+owner
+Bob
+claim
+12-16-2016
+n
+n
+
+1
+57703
+car shop
+Easy Fix
+1
+Oil change: $36
+n
+n
+
+1
+57704
+owner
+Patty
+VehiclE
+Honda
+HR-V
+2010
+1500
+y
+v
+Chevrolet
+Impala
+2015
+18500
+y
+CLAIM
+12-12-2020
+y
+c
+2-29-2015
+n
+y
+o
+Phil
+v
+Toyota
+Tundra
+2012
+22000
+n
+Y
+car shop
+Bob's Fix It
+1
+Oil change: $36
+y
+22
+Tire change: $150
+y
+12
+New battery: $110
+n
+y
+c
+ABC Car Repair
+75
+Hail repair
+n
+n
+
+
+2
+5
+tier2b_Out.xml
+
+0
