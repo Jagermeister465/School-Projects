@@ -1,0 +1,23 @@
+<testsuites>
+  <testsuite name="NextStep.Tests.dll" tests="9" skipped="0" failures="0" errors="0" time="0.2636218000000001" timestamp="2022-04-04T21:47:43" hostname="T-SMD1035888" id="0" package="NextStep.Tests.dll">
+    <properties />
+    <testcase classname="NextStep.Tests.StudentRepositoryTests" name="StudentRepositoryTests.Get_Student_ById" time="0.1647017" />
+    <testcase classname="NextStep.Tests.StudentRepositoryTests" name="StudentRepositoryTests.Get_Students" time="0.0487601" />
+    <testcase classname="NextStep.Tests.StudentRepositoryTests" name="StudentRepositoryTests.Get_Students_BySearch_None" time="0.0260450" />
+    <testcase classname="NextStep.Tests.StudentRepositoryTests" name="StudentRepositoryTests.Get_Students_BySearch_Many" time="0.0015647" />
+    <testcase classname="NextStep.Tests.StudentRepositoryTests" name="StudentRepositoryTests.Get_Student_ById_After_Insert" time="0.0103403" />
+    <testcase classname="NextStep.Tests.StudentRepositoryTests" name="StudentRepositoryTests.Get_Student_ById_NotFound" time="0.0012248" />
+    <testcase classname="NextStep.Tests.StudentRepositoryTests" name="StudentRepositoryTests.Update_Student" time="0.0056028" />
+    <testcase classname="NextStep.Tests.StudentRepositoryTests" name="StudentRepositoryTests.Delete_Student" time="0.0032545" />
+    <testcase classname="NextStep.Tests.StudentRepositoryTests" name="StudentRepositoryTests.Insert_Student" time="0.0021279" />
+    <system-out>
+Test Framework Informational Messages:
+[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.3+1b45f5407b (64-bit .NET 5.0.15)
+[xUnit.net 00:00:00.87]   Discovering: NextStep.Tests
+[xUnit.net 00:00:00.90]   Discovered:  NextStep.Tests
+[xUnit.net 00:00:00.90]   Starting:    NextStep.Tests
+[xUnit.net 00:00:02.45]   Finished:    NextStep.Tests
+</system-out>
+    <system-err></system-err>
+  </testsuite>
+</testsuites>
